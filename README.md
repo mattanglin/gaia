@@ -1,7 +1,12 @@
-# gaia-store
+# gaia
 
-Redux store reducer and actions for Gaia Project board game
+React/Redux implementation of Gaia Project Boardgame
 
 ## Roadmpa
 
-TODO
+- [ ] Socket Game Server
+- [ ] Lobby Application
+- [ ] Game logic redux store
+- [ ] Gam board React App
+- [ ] Display wrapper react/redux
+...
