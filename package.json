@@ -1,0 +1,9 @@
+{
+  "name": "gaia-store",
+  "version": "0.0.0",
+  "description": "Redux store for gaia project board game",
+  "main": "index.js",
+  "repository": "https://github.com/mattanglin/gaia-store.git",
+  "author": "(Matt Anglin <mattanglin@gmail.com>)",
+  "license": "MIT"
+}
